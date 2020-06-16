@@ -28,3 +28,31 @@
     text-align: center;
     font-weight: 600;
 }
+.contenedor{
+    width: 950px;
+    /* border: solid; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    box-shadow: 1px 1px 15px 0 black;
+    
+
+
+}
+.educacion__titulo{
+    margin-bottom: 40px;
+    margin-left: 120px;
+}
+dt{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+dd{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.trabajo__titulo{
+    margin-bottom: 40px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
