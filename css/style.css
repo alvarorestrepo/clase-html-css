@@ -1,0 +1,30 @@
+*{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera{
+    background-color: rgb(92, 92, 173);
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.cabecera__nombre{
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 40px;
+    font-weight: 300;
+}
+.cabecera__profesion{
+    display: inline-block;
+    margin-left: 50px;
+
+}
+.experiencia{
+    background-color: rgb(228, 157, 111);
+    padding: 8px;
+    text-align: center;
+    font-weight: 600;
+}
