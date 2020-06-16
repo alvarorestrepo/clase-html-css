@@ -56,3 +56,32 @@ dd{
     margin-left: 120px;
     margin-top: 50px;
 }
+.fecha{
+    margin-left: 40px;
+}
+.redes{
+    margin-bottom: 40px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+li{
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.educacion__1{
+    display: inline-block;
+}
+.educacion__2{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    margin-left: 400px;
+    border-radius: 50%;
+    margin-top: 20px;
+
+}
+img:hover{
+    width: 300px;
+    transition: 0.5s;
+}
